@@ -1,8 +1,9 @@
 # Hi 👋, I'm Mateusz
 
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;I'm+a+Minecraft+plugin+developer.;I+love+coding+in+Java.;GuimPL" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Minecraft+plugin+developer.;I+love+coding+in+Java.;GuimPL" alt="Typing SVG" />
 </div>
+
 
 
 
