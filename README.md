@@ -17,5 +17,6 @@
 - **Discord**: GuimPL
 - **Email**: [mjedrachowicz7@gmail.com](mailto:mjedrachowicz7@gmail.com)
 
-![GIF](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
